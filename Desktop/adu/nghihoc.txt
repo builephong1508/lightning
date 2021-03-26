@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cau tren vo nghia nen toi sua lai
+=======
+hom nay toi se nghi hoc
+>>>>>>> ee9c5275791d23bb691b54b95643c329a57fd96e
